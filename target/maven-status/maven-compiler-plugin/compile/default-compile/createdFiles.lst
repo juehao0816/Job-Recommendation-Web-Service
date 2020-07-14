@@ -1,0 +1,13 @@
+db/MYSQLConnection.class
+rpc/SearchItem.class
+rpc/RecommendationItem.class
+db/MYSQLDBUtil.class
+rpc/RpcHelper.class
+entity/Item.class
+githubclient/GitHubClient$1.class
+db/MYSQLTableCreation.class
+entity/Item$ItemBuilder.class
+githubclient/MonkeyLearnClient.class
+githubclient/GitHubClient.class
+entity/Item$1.class
+rpc/itemHistory.class
